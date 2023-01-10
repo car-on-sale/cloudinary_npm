@@ -2,7 +2,7 @@ import { AnyARecord } from 'dns';
 import { Transform } from 'stream';
 
 
-declare module 'cloudinary' {
+declare module '@caronsale/cloudinary' {
 
     /****************************** Constants *************************************/
     /****************************** Transformations *******************************/
